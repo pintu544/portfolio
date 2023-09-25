@@ -1,11 +1,11 @@
 // resume link
 var resumeLink = document.getElementsByClassName("resume");
 resumeLink[0].addEventListener("click", function(){
-    window.open("https://drive.google.com/file/d/1cI2PltX0FX2u0v-RMj4RyZWr1raD8ue2/view?usp=sharing","_blank");
+    window.open("https://drive.google.com/file/d/1TsGCEIrJaP8gWBipPPTZKTEcfLAk00eK/view","_blank");
 });
 
 
-// add smooth scroll on click naviagition menu items
+// add smooth scroll on click navigation menu items
 
 var navMenuAncherTag = document.querySelectorAll('.nav-menu a');
 var interval;
